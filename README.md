@@ -83,5 +83,5 @@ Sentiment Analysis Dataset. Kaggle. [Access it here](https://www.kaggle.com/data
 
 ## 9. License ⚖️
 
-This project is made available under the MIT License. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish
+This project is open source and available under the [MIT License](LICENSE), promoting free use, modification, and distribution of the software, ensuring that contributions are welcomed and recognized.
 
